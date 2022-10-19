@@ -1,0 +1,3 @@
+tensorflow/kaggle/cat_vs_dogs_redux/data/train
+tensorflow/kaggle/cat_vs_dogs_redux/data/test
+tensorflow/kaggle/cat_vs_dogs_redux/data/sample_submission.csv
